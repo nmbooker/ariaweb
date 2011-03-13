@@ -1,4 +1,5 @@
 Ariaweb::Application.routes.draw do
+  resources :downloads
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
